@@ -17,6 +17,7 @@ This Spring Boot project provides a simple application for managing articles and
 
 ## Screenshots
 ### Data Base
+<img width="359" alt="image" src="https://github.com/MaskedFezz/ControleJEE/assets/130797834/6fe441cb-03cc-4062-aa7b-534c92e17a5a">
 
 
 ### Swagger categorie API 
