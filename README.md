@@ -46,8 +46,11 @@ This Spring Boot project provides a simple application for managing articles and
 #### Article JSON
 
 
-### Filter by categorie 
+### Filter categorie by categorie 
 <img width="900" alt="image" src="https://github.com/MaskedFezz/ControleJEE/assets/130797834/97661307-c013-4c67-9ce0-71dbe4e3e961">
+
+### Filter Article by Categorie
+<img width="908" alt="image" src="https://github.com/MaskedFezz/ControleJEE/assets/130797834/e973d0ea-aaf1-4dbf-9d25-22f7267d2792">
 
 ### Filter by date
 ![image](https://github.com/MaskedFezz/ControleJEE/assets/130797834/6dda4c9f-5215-4092-97c2-acb5e95bc393)
